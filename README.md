@@ -1,2 +1,2 @@
-# domasna-hello-world
-some text
+# test
+test
