@@ -1,2 +1,2 @@
-# domasna-helloworld
-desc
+# domasna-hello-world
+some text
